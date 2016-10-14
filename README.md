@@ -27,6 +27,8 @@
 
 - emacs-18.59.tar.gz from  http://ftp.gnu.org/old-gnu/emacs/
 
+- emacs-19.7.tar.gz to emacs-19.21.tar.gz from http://www.nic.funet.fi/index/gnu/funet/historical-funet-gnu-area-from-early-1990s/old/
+
 - emacs-19.22.tar.gz to emacs-19.28.tar.gz from http://www.nic.funet.fi/index/gnu/funet/historical-funet-gnu-area-from-early-1990s/emacs/
 
 - emacs-19.34b.tar.gz from  http://ftp.gnu.org/old-gnu/emacs/
