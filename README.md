@@ -1,10 +1,14 @@
 # Historical Emacs tarballs
 
+Run the `build.sh` script to create a git repository with all Emacs
+releases.
+
 ## Provenance
 
 - emacs-v170.tap from Richard Alderson.
 
-  TECO EMACS.
+  TOPS-20 `DUMP` tape image of TECO EMACS.  Not included in the git
+  repository.  Extracted in http://github.com/PDP-10/emacs/tree/extracted
 
 - emacs-16.56.tar.gz from Noah Friedman.
 
@@ -30,5 +34,9 @@
 - emacs-19.7.tar.gz to emacs-19.21.tar.gz from http://www.nic.funet.fi/index/gnu/funet/historical-funet-gnu-area-from-early-1990s/old/
 
 - emacs-19.22.tar.gz to emacs-19.28.tar.gz from http://www.nic.funet.fi/index/gnu/funet/historical-funet-gnu-area-from-early-1990s/emacs/
+
+- emacs-19.29.tar.gz and emacs-19.30.tar.gz from http://ftp.tiscali.nl/pub/mirrors/sunfreeware/SOURCES/
+
+- emacs-19.31.tar.gz from http://mirrors.slackware.com/slackware/slackware-3.1/source/e/
 
 - emacs-19.34b.tar.gz from  http://ftp.gnu.org/old-gnu/emacs/
