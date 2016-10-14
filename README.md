@@ -15,11 +15,10 @@
 
 - emacs_18.41.tar.gz from http://bitsavers.org/bits/MIT/gnu/
 
-<<<<<<< HEAD
 - diff-18* from http://www.nic.funet.fi/index/gnu/funet/historical-funet-gnu-area-from-early-1990s/emacs/
 
 - emacs-18.57.tar.gz from  http://www.nic.funet.fi/index/gnu/funet/historical-funet-gnu-area-from-early-1990s/emacs/
 
 - emacs-18.58.tar.gz from  http://www.nic.funet.fi/index/gnu/funet/historical-funet-gnu-area-from-early-1990s/emacs/
 
-- emacs-18.59.tar.gz from http://ftp.gnu.org/old-gnu/emacs/
+- emacs-18.59.tar.gz from  http://ftp.gnu.org/old-gnu/emacs/
