@@ -14,3 +14,5 @@
   easy to find these days."
 
 - emacs_18.41.tar.gz from http://bitsavers.org/bits/MIT/gnu/
+
+- diff-18* from http://www.nic.funet.fi/index/gnu/funet/historical-funet-gnu-area-from-early-1990s/emacs/
