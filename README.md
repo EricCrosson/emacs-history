@@ -17,6 +17,10 @@
 
 - diff-18* from http://www.nic.funet.fi/index/gnu/funet/historical-funet-gnu-area-from-early-1990s/emacs/
 
+- emacs-18.55.tar.gz from ftp://ftp4.gwdg.de/pub/msdos/editors/emacs/
+
+- emacs-18.55.tar.Z from ftp://ftp.cs.ait.ac.th/pub/pc/demacs/
+
 - emacs-18.57.tar.gz from  http://www.nic.funet.fi/index/gnu/funet/historical-funet-gnu-area-from-early-1990s/emacs/
 
 - emacs-18.58.tar.gz from  http://www.nic.funet.fi/index/gnu/funet/historical-funet-gnu-area-from-early-1990s/emacs/
