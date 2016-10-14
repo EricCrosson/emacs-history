@@ -12,3 +12,5 @@
   tapes at MIT because rms needed it in a court case with Unisys.  I
   put it back up for ftp a couple of years later and it's relatively
   easy to find these days."
+
+- emacs_18.41.tar.gz from http://bitsavers.org/bits/MIT/gnu/
