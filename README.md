@@ -10,12 +10,12 @@ releases.
   TOPS-20 `DUMP` tape image of TECO EMACS.  Not included in the git
   repository.  Extracted in http://github.com/PDP-10/emacs/tree/extracted
 
-- emacs-16.56.tar.gz from Noah Friedman.
+- emacs-16.56.tar.gz from ftp://ftp.splode.com/pub/users/friedman/emacs/
 
-  "In 1993 I recovered a copy of the Emacs 16.56 sources from backup
-  tapes at MIT because rms needed it in a court case with Unisys.  I
-  put it back up for ftp a couple of years later and it's relatively
-  easy to find these days."
+  Noah Friedman: "In 1993 I recovered a copy of the Emacs 16.56
+  sources from backup tapes at MIT because rms needed it in a court
+  case with Unisys.  I put it back up for ftp a couple of years later
+  and it's relatively easy to find these days."
 
 - emacs_18.41.tar.gz from http://bitsavers.org/bits/MIT/gnu/
 
